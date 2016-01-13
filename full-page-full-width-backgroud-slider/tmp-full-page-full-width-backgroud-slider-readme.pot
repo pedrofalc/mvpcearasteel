@@ -1,0 +1,196 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Full Page/ Full width Background Slider"
+msgstr ""
+
+#. Short description.
+msgid "A plugin that allows you to add full page background slider to your website with a lots of custom features."
+msgstr ""
+
+#. Screenshot description.
+msgid "Menu Option."
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Settings Page."
+msgstr ""
+
+#. Screenshot description.
+msgid "Post/Page Setting Options."
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description list item.
+msgid "Adds full page slider to use to your website."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can add up to 6 images to the slider."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can add single full page background image to your site."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can add different slider to different pages of the website."
+msgstr ""
+
+#. Found in description list item.
+msgid "Easily manageable back-end."
+msgstr ""
+
+#. Found in description list item.
+msgid "Comes with 6 Great Backgrounds ready to use"
+msgstr ""
+
+#. Found in description list item.
+msgid "Last but not the least its FREE"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"A great plugin that allows you to add full page background slider to your website with a lots of custom features.\n"
+" -   Adds full page slider to use to your website.\n"
+" -   You can add up to 6 images to the slider.\n"
+" -   You can add single full page background image to your site.\n"
+" -   You can add different slider to different pages of the website.\n"
+" -   Easily manageable back-end.\n"
+" -   Comes with 6 Great Backgrounds ready to use\n"
+" -   Last but not the least its FREE"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Read more instructions about how to use here http://www.wpfruits.com/downloads/wp-plugins/full-page-full-width-background-slider-plugin-for-wordpress/"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"-Upload the plugin folder to the /wp-content/plugins/ folder of your wordpress installation.\n"
+"   -Activate the plugin. \n"
+"   -You will see an option at the left bottom of the wordpress options in the left sidebar.\n"
+"http://www.wpfruits.com/wp-content/uploads/2012/08/Full-page-background-Slider-settings.png\n"
+"   -Click on it to set the options\n"
+"   -Then just add the url path for the images in the panel. Please See this images will slide on the background of full website. If you want to just add one image to the background then just add the first image in the panel.\n"
+"http://www.wpfruits.com/wp-content/uploads/2012/08/full-page-back-ground-slider-admin-settings.png\n"
+"   -Now if you want to add slider to a particular page or post then you will see the same panel at the bottom of the post box.\n"
+"   -So you can disbaled the slider for a particular post or page or you can enable it just for the post of page or if you want to add a single image to the background of the page just enter one value in the first box.\n"
+"http://www.wpfruits.com/wp-content/uploads/2012/08/Full-page-background-slider.png"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "For More Details please visit http://www.wpfruits.com/downloads/wp-plugins/full-page-full-width-background-slider-plugin-for-wordpress/"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed few plugin admin style issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress latest version 3.9."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Transition Speed (animation speed) option in admin section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress latest version 3.8.1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Slide Duration (delay between slides) option in admin section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress latest version 3.8."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new code to display global slider on categories, tags, archives and authors page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed few style and jquery issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested plugin upto WordPress 3.6."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now Slider slide images moved to \"inc/images\" folder."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Slider background color option in admin panel."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some issues with wordpress 3.5 version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Media upload image issue with wordpress 3.5 version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added browse button to add the slide images."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the slider admin panel look."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some issues with jquery."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.2.3="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.2.2="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.2.1="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.2.0="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.1.0="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.0.9="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.0.7="
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "=Version 1.0.3="
+msgstr ""
+
+#. Found in faq header.
+msgid "A question that someone might have"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "An answer to that question."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Arbitrary section 1"
+msgstr ""

@@ -1,0 +1,38 @@
+/*-- FWB SLIDER ADMIN STYLE
+-----------------------------------*/
+#fwbslider_post_metas {background: none repeat scroll 0 0 #FFFFFF;border: 1px solid #E5E5E5;box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);}
+#fwbslider_post_metas .fwbslider_form{}
+#fwbslider_post_metas  span.desc{ background: none repeat scroll 0 0 #333333; color: #EEEEEE; display: block; font-size: 13px; line-height: 20px; padding: 10px; text-align: center;} 	
+#fwbslider_post_metas h3.hndle span{font-family: fantasy;font-size: 14px;font-weight: bold;}
+#fwbslider_post_metas   table{margin-bottom: 10px;  margin-top: 10px; width: 100%;} 	
+#fwbslider_post_metas   table td{padding:10px 0;}
+#fwbslider_post_metas   table input[type="text"]{}
+#fwbslider_post_metas th{text-align:left;}
+#fwbslider_post_metas .fwb_uploadbtn{cursor:pointer;}
+#fwbslider_post_metas .fwbslide_wrap  .fwb_proFeature th{width:140px;}
+#fwbslider_post_metas .fwb_colwrap{position:relative;width:120px;}	
+#fwbslider_post_metas .fwb_colwrap .fwb_color_inp{border: 1px solid #CCCCCC; height: 22px; width: 100px;} 	
+#fwbslider_post_metas .fwb_colsel{background:url('../images/color_pick.png');height: 22px;margin-top: 1px;position: absolute;top: 0;width: 22px;right:0;cursor:pointer;}
+#fwbslider_post_metas .fwb_colsel .farbtastic{display:none;position:absolute;top:8px;}
+#fwbslider_post_metas .fwbfleft{float:left;}
+#fwbslider_post_metas select{border:1px solid #777;}
+#fwb_updates{background-color: #FBD4D4;border: 1px solid #E7AFAF;text-transform: uppercase; font-size: 15px; font-weight: bold; margin-bottom: 10px; padding: 13px; text-align: center; } 	
+#fwb_updates a{color:#AD0000;text-decoration:none;}
+
+.fwbslide_wrap .fwb_rdlb{border: 4px solid #555555; float: left; margin: 3px; padding: 24px;} 	
+.fwbslide_wrap  .fwb_proFeature{background-color: #FBD4D4;border: 1px solid #E7AFAF;margin: 0 !important; padding: 10px; position: relative;} 	
+.fwbslide_wrap .fwb_rdlb input{display:none;}
+.fwbslide_wrap  .fwb_proFeature th{width:183px;}
+.fwbslide_wrap  .fwb_proFeature th a {color: #D30E0E;font-size: 14px;}
+
+.fwblite-wrapper #wp_banner{ background: url("../images/banner.jpg") no-repeat scroll center center transparent; border: 1px solid #0B3E60; height: 131px; margin-bottom: 15px; margin-top: 15px; padding: 1px; width: 696px; } 
+.fwblite-wrapper #wp_banner #mc-embedded-subscribe-form{ margin: 0 0 0 176px; padding: 0; } 
+.fwblite-wrapper #wp_banner #mc_embed_signup .mc-field-group{ min-height: 45px; padding-bottom: 0; width: 100%; } 
+.fwblite-wrapper #wp_banner #mc_embed_signup .mc-field-group input[type='email']{ background: none repeat scroll 0 0 transparent; border: 0 none; color: #777777; display: block; float: left;font-size: 14px; font-weight: bold; margin-top: 6px; padding: 8px 0; text-indent: 1%; width: 341px; border-radius:0; } 
+.fwblite-wrapper #wp_banner #mc_embed_signup .mc-field-group input[type='submit']{box-shadow: none;background: none repeat scroll 0 0 transparent; border: 0 none; clear: none; float: left; margin: 6px 0 0 18px; width: 142px }
+.fwblite-wrapper #wp_banner .bot_section{ width:100%; height:86px; } 
+.fwblite-wrapper #wp_banner .bot_section a{ float:left; display:block; width:45px; height:45px; margin-top: 15px; } 
+.fwblite-wrapper #wp_banner .bot_section a.wplogo{ height: 70px; margin-left: 271px; width: 150px; } 
+.fwblite-wrapper #wp_banner .bot_section a.fbicon{ margin-left: 138px; } 
+.fwblite-wrapper #wp_banner .bot_section a.twicon{ margin-left:15px; } 
+.fwblite_iframe{border: 2px solid #DDDDDD; left: 900px; position: fixed; top: 99px; z-index: 1;} 	 
